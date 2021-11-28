@@ -1,6 +1,6 @@
 ### Olá sou Carlos Lima  👋
 
-💻 - Atualmente trabalho como Analista de Sistemas</br>
+💻 - Atualmente trabalho como Analista de sistemas com experiência em desenvolvimento desktop com C#</br>
 📚 - Estudo com foco em  Javascript, Node e MongoDB</br>
 📈 - Meu objetivo é inicar na carreira de desenvolvimento com as tecnologias na qual estou estudando</br>
 🥇 - Tenho muito potencial a ser explorado e uma curva de aprendizado rápida</br>
