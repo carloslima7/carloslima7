@@ -1,10 +1,10 @@
 ### Olá sou Carlos Lima  👋
 
-💻 - Atualmente trabalho como Analista de sistemas com experiência em desenvolvimento desktop com C#</br>
-📚 - Estudo com foco em  Javascript, Node e MongoDB</br>
-📈 - Meu objetivo é inicar na carreira de desenvolvimento com as tecnologias na qual estou estudando</br>
+💻 - Atualmente trabalho como Desenvolvedor de Software no squad de Integrações com Node js</br>
+📚 - Estudo com foco em  Javascript, Node, MongoDb, MySQL e AWS</br>
+📈 - Meu objetivo é evoluir minha carreira como dev e dominar as principais ferramentas do mercado</br>
 🥇 - Tenho muito potencial a ser explorado e uma curva de aprendizado rápida</br>
-🚀 - Posso ser inexperiente agora, mas em pouco tempo irei agregar muito em seu time</br>
+🚀 - Conhecimento nos leva mais alto</br>
 📧 - Meu email é cls5000@hotmail.com</br>
 
 <div align="center">
