@@ -8,9 +8,9 @@
 📧 - Meu email é cls5000@hotmail.com</br>
 
 <div align="center">
-  <a href="https://github.com/cls5000">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cls5000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cls5000&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/carloslima7">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloslima7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslima7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
