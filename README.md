@@ -2,9 +2,7 @@
 
 💻 - Desenvolvedor de Software no time de Integrações com Node js</br>
 📚 - Estudo com foco em  Javascript, Node, Typescript e ferramentas AWS</br>
-📈 - Meu objetivo é evoluir minha carreira como dev e dominar as principais ferramentas do mercado</br>
-🚀 - Conhecimento nos leva mais alto</br>
-📧 - Meu email é cls5000@hotmail.com</br>
+
 
 <div align="center">
   <a href="https://github.com/carloslima7">
