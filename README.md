@@ -1,6 +1,6 @@
 ### Olá sou Carlos Lima  👋
 
-💻 - Desenvolvedor de Software no time de Integrações com Node js</br>
+💻 - Desenvolvedor de Software de Integrações js</br>
 📚 - Estudo com foco em  Javascript, Node, Typescript e ferramentas AWS</br>
 
 
